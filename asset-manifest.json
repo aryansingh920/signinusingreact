@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signinusingreact/static/css/main.1a8a0596.css",
+    "main.js": "/signinusingreact/static/js/main.fd2b035f.js",
+    "index.html": "/signinusingreact/index.html",
+    "main.1a8a0596.css.map": "/signinusingreact/static/css/main.1a8a0596.css.map",
+    "main.fd2b035f.js.map": "/signinusingreact/static/js/main.fd2b035f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.fd2b035f.js"
+  ]
+}
